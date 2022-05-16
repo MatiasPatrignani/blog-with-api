@@ -12,14 +12,12 @@
     </script>
     <link rel="stylesheet" href="/src/style.css">
 
-    <title>Document</title>
+    <title>The Blog</title>
 </head>
 
 <body>
-
-    <div>
-
-        <!-- Modal -->
+    <div class="Modal-Container">
+        <!-- Modal VIEW -->
         <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -28,7 +26,6 @@
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
                     <div class="modal-body ps-4">
-                        <!-- div post -->
                         <p>post body</p>
                     </div>
                     <div class="ps-4">
@@ -42,14 +39,37 @@
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                        <button type="button" class="btn btn-primary">Save changes</button>
                     </div>
                 </div>
             </div>
         </div>
-
-
+        <!-- MODAL EDIT -->
+        <div class="modal fade" id="editModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLabel">Edit post</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form action="" method="post" id="formal-Modal">
+                    <div class="modal-title--edit">
+                        <!-- title dynamic -->
+                      </div>
+                      <div class="modal-post--body">
+                        <!-- body dynamic -->
+                      </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                  <button type="button" class="btn btn-primary" role="btn_save">Save changes</button>
+                </div>
+              </div>
+            </div>
+          </div>
     </div>
+    <!-- End Modal -->
     <header class="header__title text-center bg-light">
         <h1 class="header__title--h1 mb-3">The Blog</h1>
     </header>
@@ -67,7 +87,10 @@
                 <div class="">
             <div class="d-flex colum justify-content-end">
                 <button role="button" class="btn btn-primary me-1 my-auto">X</button>
-                <button role="btn-edit" id="btnLoadComments" class="btn btn-secondary my-auto" data-bs-toggle="modal" data-bs-target="#exampleModal">Edit</button>
+                <button role="btn-view" id="btnLoadComments" class="btn btn-secondary my-auto" data-bs-toggle="modal" data-bs-target="#exampleModal">View</button>
+                <button role="btn-edit" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#editModal">
+                    Edit
+                  </button>
                 </div>
             </div>
         </div>
