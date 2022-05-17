@@ -1,6 +1,7 @@
 {
   "posts": [
     {
+<<<<<<< HEAD
       "userId": 4,
       "id": 35,
       "title": "id nihil consequatur molestias animi provident",
@@ -25,34 +26,18 @@
       "body": "ut voluptatum aliquid illo tenetur nemo sequi quo facilis\nipsum rem optio mollitia quas\nvoluptatem eum voluptas qui\nunde omnis voluptatem iure quasi maxime voluptas nam"
     },
     {
+=======
+      "body": "body 22",
+      "title": "Oualid",
+>>>>>>> Button-load-comment-&-load-more
       "userId": 5,
-      "id": 41,
-      "title": "non est facere",
-      "body": "molestias id nostrum\nexcepturi molestiae dolore omnis repellendus quaerat saepe\nconsectetur iste quaerat tenetur asperiores accusamus ex ut\nnam quidem est ducimus sunt debitis saepe"
-    },
-    {
-      "userId": 5,
-      "id": 42,
-      "title": "commodi ullam sint et excepturi error explicabo praesentium voluptas",
-      "body": "odio fugit voluptatum ducimus earum autem est incidunt voluptatem\nodit reiciendis aliquam sunt sequi nulla dolorem\nnon facere repellendus voluptates quia\nratione harum vitae ut"
-    },
-    {
-      "userId": 5,
-      "id": 43,
-      "title": "eligendi iste nostrum consequuntur adipisci praesentium sit beatae perferendis",
-      "body": "similique fugit est\nillum et dolorum harum et voluptate eaque quidem\nexercitationem quos nam commodi possimus cum odio nihil nulla\ndolorum exercitationem magnam ex et a et distinctio debitis"
-    },
-    {
-      "userId": 5,
-      "id": 44,
-      "title": "optio dolor molestias sit",
-      "body": "temporibus est consectetur dolore\net libero debitis vel velit laboriosam quia\nipsum quibusdam qui itaque fuga rem aut\nea et iure quam sed maxime ut distinctio quae"
+      "id": 41
     },
     {
       "userId": 5,
       "id": 45,
       "title": "ut numquam possimus omnis eius suscipit laudantium iure",
-      "body": "est natus reiciendis nihil possimus aut provident\nex et dolor\nrepellat pariatur est\nnobis rerum repellendus dolorem autem"
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
     },
     {
       "userId": 5,
@@ -619,6 +604,7 @@
   ],
   "comments": [
     {
+<<<<<<< HEAD
       "postId": 35,
       "id": 171,
       "name": "voluptatibus qui est et",
@@ -759,6 +745,8 @@
       "body": "facere maxime alias aspernatur ab quibusdam necessitatibus\nratione similique error enim\nsed minus et\net provident minima voluptatibus"
     },
     {
+=======
+>>>>>>> Button-load-comment-&-load-more
       "postId": 41,
       "id": 201,
       "name": "et adipisci aliquam a aperiam ut soluta",
@@ -792,111 +780,6 @@
       "name": "et reiciendis ullam quae",
       "email": "Omari@veronica.us",
       "body": "voluptatem accusamus delectus natus quasi aliquid\nporro ab id ea aut consequatur dignissimos quod et\naspernatur sapiente cum corrupti\npariatur veritatis unde"
-    },
-    {
-      "postId": 42,
-      "id": 206,
-      "name": "deserunt eveniet quam vitae velit",
-      "email": "Sophie@antoinette.ca",
-      "body": "nam iusto minus expedita numquam\net id quis\nvoluptatibus minima porro facilis dolores beatae aut sit\naut quia suscipit"
-    },
-    {
-      "postId": 42,
-      "id": 207,
-      "name": "asperiores sed voluptate est",
-      "email": "Jessika@crystel.ca",
-      "body": "nulla quos harum commodi\naperiam qui et dignissimos\nreiciendis ut quia est corrupti itaque\nlaboriosam debitis suscipit"
-    },
-    {
-      "postId": 42,
-      "id": 208,
-      "name": "excepturi aut libero incidunt doloremque at",
-      "email": "Cesar_Volkman@letitia.biz",
-      "body": "enim aut doloremque mollitia provident molestiae omnis esse excepturi\nofficiis tempora sequi molestiae veniam voluptatem\nrecusandae omnis temporibus et deleniti laborum sed ipsa\nmolestiae eum aut"
-    },
-    {
-      "postId": 42,
-      "id": 209,
-      "name": "repudiandae consectetur dolore",
-      "email": "Maureen_Mueller@lance.us",
-      "body": "officiis qui eos voluptas laborum error\nsunt repellat quis nisi unde velit\ndelectus eum molestias tempora quia ut aut\nconsequatur cupiditate quis sint in eum voluptates"
-    },
-    {
-      "postId": 42,
-      "id": 210,
-      "name": "quibusdam provident accusamus id aut totam eligendi",
-      "email": "Eriberto@geovany.ca",
-      "body": "praesentium odit quos et tempora eum voluptatem non\nnon aut eaque consectetur reprehenderit in qui eos nam\nnemo ea eos\nea nesciunt consequatur et"
-    },
-    {
-      "postId": 43,
-      "id": 211,
-      "name": "rerum voluptate dolor",
-      "email": "Faustino.Keeling@morris.co.uk",
-      "body": "odio temporibus est ut a\naut commodi minima tempora eum\net fuga omnis alias deleniti facere totam unde\nimpedit voluptas et possimus consequatur necessitatibus qui velit"
-    },
-    {
-      "postId": 43,
-      "id": 212,
-      "name": "et maiores sed temporibus cumque voluptatem sunt necessitatibus in",
-      "email": "Viola@aric.co.uk",
-      "body": "aut vero sint ut et voluptate\nsunt quod velit impedit quia\ncupiditate dicta magni ut\neos blanditiis assumenda pariatur nemo est tempore velit"
-    },
-    {
-      "postId": 43,
-      "id": 213,
-      "name": "ratione architecto in est voluptatem quibusdam et",
-      "email": "Felton_Huel@terrell.biz",
-      "body": "at non dolore molestiae\nautem rerum id\ncum facilis sit necessitatibus accusamus quia officiis\nsint ea sit natus rerum est nemo perspiciatis ea"
-    },
-    {
-      "postId": 43,
-      "id": 214,
-      "name": "dicta deserunt tempore",
-      "email": "Ferne_Bogan@angus.info",
-      "body": "nam nesciunt earum sequi dolorum\net fuga sint quae architecto\nin et et ipsam veniam ad voluptas rerum animi\nillum temporibus enim rerum est"
-    },
-    {
-      "postId": 43,
-      "id": 215,
-      "name": "sint culpa cupiditate ut sit quas qui voluptas qui",
-      "email": "Amy@reymundo.org",
-      "body": "esse ab est deleniti dicta non\ninventore veritatis cupiditate\neligendi sequi excepturi assumenda a harum sint aut eaque\nrerum molestias id excepturi quidem aut"
-    },
-    {
-      "postId": 44,
-      "id": 216,
-      "name": "voluptatem esse sint alias",
-      "email": "Jaylan.Mayert@norbert.biz",
-      "body": "minima quaerat voluptatibus iusto earum\nquia nihil et\nminus deleniti aspernatur voluptatibus tempore sit molestias\narchitecto velit id debitis"
-    },
-    {
-      "postId": 44,
-      "id": 217,
-      "name": "eos velit velit esse autem minima voluptas",
-      "email": "Cristina.DAmore@destini.biz",
-      "body": "aperiam rerum aut provident cupiditate laboriosam\nenim placeat aut explicabo\nvoluptatum similique rerum eaque eligendi\nnobis occaecati perspiciatis sint ullam"
-    },
-    {
-      "postId": 44,
-      "id": 218,
-      "name": "voluptatem qui deserunt dolorum in voluptates similique et qui",
-      "email": "Ettie_Bashirian@lambert.biz",
-      "body": "rem qui est\nfacilis qui voluptatem quis est veniam quam aspernatur dicta\ndolore id sapiente saepe consequatur\nenim qui impedit culpa ex qui voluptas dolor"
-    },
-    {
-      "postId": 44,
-      "id": 219,
-      "name": "qui unde recusandae omnis ut explicabo neque magni veniam",
-      "email": "Lizeth@kellen.org",
-      "body": "est et dolores voluptas aut molestiae nam eos saepe\nexpedita eum ea tempore sit iure eveniet\niusto enim quos quo\nrepellendus laudantium eum fugiat aut et"
-    },
-    {
-      "postId": 44,
-      "id": 220,
-      "name": "vel autem quia in modi velit",
-      "email": "Vladimir_Schumm@sharon.tv",
-      "body": "illum ea eum quia\ndoloremque modi ducimus voluptatum eaque aperiam accusamus eos quia\nsed rerum aperiam sunt quo\nea veritatis natus eos deserunt voluptas ea voluptate"
     },
     {
       "postId": 45,
